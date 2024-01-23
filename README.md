@@ -17,3 +17,4 @@
 ![image](https://github.com/ertecino/Algoritma-Merge-Sort/assets/147555058/0a0b229d-fa6a-4286-9703-1dcccbb628dd)
 											
 				
+Merge Sort algoritmasının zaman karmaşıklığı, O(n log n)'dir.
